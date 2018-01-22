@@ -7,7 +7,7 @@ printf("Enter a base number: ");
 scanf("%d", &base);
 printf("Enter an exponent: ");
 scanf("%d", &exponent);
-While (exponent != 0)
+While (exponent != 0);
 {
  result *= base;
   --exponent;
