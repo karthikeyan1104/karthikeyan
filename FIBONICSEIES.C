@@ -1,16 +1,7 @@
-
-
-
-
-
-
-
-
-
-
-
-
-#include <stdio.h>
+#nclude<stdio.h>
+#include<conio.h>
+void main()
+{
 int main()
 {
 int i, n,first=0,next=1,sum;
@@ -22,9 +13,18 @@ for(i=0;i<n;i++)
 {
 printf("\n%d",first);
 sum=first+next;
-first=next;
-next=sum;
+next=num;
 }
 getch();
-return 0;
 }
+  
+
+
+
+
+
+
+
+
+
+
