@@ -16,19 +16,7 @@ num=num/10;
 {
 }
 {
-printf("\n%d" ,sum);getch*();
-
-
-
-
-
-#include<stdio.h>
-#include<conio.h>
-void main()
-{
-int main() 
-{
-int num,temp,sum=0;
-printf("enter the number");
-scanf("%d",&num);
-t
+printf("\n%d" ,sum);
+getch();
+}
+  
