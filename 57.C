@@ -12,7 +12,7 @@ if((i%2)!=0)
 {
 s1=s1+(i*i*i);
 }
-else
+else;
 {
 s2=s2+(i*i);
 }
@@ -20,4 +20,5 @@ s2=s2+(i*i);
 sum=s1+s2;
 printf("Answer is:%d",sum);
 getch();
+}
 }
