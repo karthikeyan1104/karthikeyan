@@ -15,7 +15,7 @@ printf("\neven");
 }
 else
 {
-printf("\nodd");
+printf("\n odd");
 }
 getch();
 }
