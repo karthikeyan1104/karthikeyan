@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include<conio.h>
+h,jhn,mjh,
 
 int main(void) {
 	char a[10];
