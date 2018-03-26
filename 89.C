@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include<conio.h>
 
-int main(void) {
+int main(void) {fggrtuk63wy
 	char a[10];
 	int n,i;
 	scanf("%s",a);
